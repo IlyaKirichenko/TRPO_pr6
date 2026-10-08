@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\kirichenko_pr6_11var.props" />
+</Project>

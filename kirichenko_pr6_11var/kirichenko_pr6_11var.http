@@ -1,0 +1,6 @@
+@kirichenko_pr6_11var_HostAddress = http://localhost:5260
+
+GET {{kirichenko_pr6_11var_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
