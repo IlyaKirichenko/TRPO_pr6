@@ -8328,32 +8328,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\st310-11\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ilya\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\st310-11\\Documents\\System\\kirichenko_pr6_11var\\kirichenko_pr6_11var\\kirichenko_pr6_11var.csproj",
+      "projectUniqueName": "C:\\Users\\ilya\\Documents\\Отчёты\\ТРПО\\TRPO_pr6\\kirichenko_pr6_11var\\kirichenko_pr6_11var.csproj",
       "projectName": "kirichenko_pr6_11var",
-      "projectPath": "C:\\Users\\st310-11\\Documents\\System\\kirichenko_pr6_11var\\kirichenko_pr6_11var\\kirichenko_pr6_11var.csproj",
-      "packagesPath": "C:\\Users\\st310-11\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\st310-11\\Documents\\System\\kirichenko_pr6_11var\\kirichenko_pr6_11var\\obj\\",
+      "projectPath": "C:\\Users\\ilya\\Documents\\Отчёты\\ТРПО\\TRPO_pr6\\kirichenko_pr6_11var\\kirichenko_pr6_11var.csproj",
+      "packagesPath": "C:\\Users\\ilya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ilya\\Documents\\Отчёты\\ТРПО\\TRPO_pr6\\kirichenko_pr6_11var\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\st310-11\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ilya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Packages": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8366,7 +8360,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -8422,7 +8422,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.317/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -271,3 +271,17 @@ C:\Users\st310-11\Documents\System\kirichenko_pr6_11var\kirichenko_pr6_11var\bin
 C:\Users\st310-11\Documents\System\kirichenko_pr6_11var\kirichenko_pr6_11var\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
 C:\Users\st310-11\Documents\System\kirichenko_pr6_11var\kirichenko_pr6_11var\obj\Debug\net8.0\kirichenko_pr6_11var.RazorAssemblyInfo.cache
 C:\Users\st310-11\Documents\System\kirichenko_pr6_11var\kirichenko_pr6_11var\obj\Debug\net8.0\kirichenko_pr6_11var.RazorAssemblyInfo.cs
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr6\kirichenko_pr6_11var\obj\Debug\net8.0\kirichenko_pr6_11var.csproj.AssemblyReference.cache
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr6\kirichenko_pr6_11var\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr6\kirichenko_pr6_11var\obj\Debug\net8.0\kirichenko_pr6_11var.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr6\kirichenko_pr6_11var\obj\Debug\net8.0\kirichenko_pr6_11var.AssemblyInfoInputs.cache
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr6\kirichenko_pr6_11var\obj\Debug\net8.0\kirichenko_pr6_11var.AssemblyInfo.cs
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr6\kirichenko_pr6_11var\obj\Debug\net8.0\kirichenko_pr6_11var.csproj.CoreCompileInputs.cache
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr6\kirichenko_pr6_11var\obj\Debug\net8.0\kirichenko_pr6_11var.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr6\kirichenko_pr6_11var\obj\Debug\net8.0\kirichenko_pr6_11var.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr6\kirichenko_pr6_11var\obj\Debug\net8.0\kirichenko_pr6_11var.RazorAssemblyInfo.cache
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr6\kirichenko_pr6_11var\obj\Debug\net8.0\kirichenko_pr6_11var.RazorAssemblyInfo.cs
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr6\kirichenko_pr6_11var\obj\Debug\net8.0\kirichenko_pr6_11var.sourcelink.json
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr6\kirichenko_pr6_11var\obj\Debug\net8.0\kirichenko_pr6_11var.dll
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr6\kirichenko_pr6_11var\obj\Debug\net8.0\refint\kirichenko_pr6_11var.dll
+C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr6\kirichenko_pr6_11var\obj\Debug\net8.0\kirichenko_pr6_11var.pdb

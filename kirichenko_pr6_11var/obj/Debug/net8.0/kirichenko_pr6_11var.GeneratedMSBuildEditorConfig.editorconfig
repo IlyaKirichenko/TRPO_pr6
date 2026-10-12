@@ -17,35 +17,37 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = kirichenko_pr6_11var
 build_property.RootNamespace = kirichenko_pr6_11var
-build_property.ProjectDir = C:\Users\st310-11\Documents\System\kirichenko_pr6_11var\kirichenko_pr6_11var\
+build_property.ProjectDir = C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr6\kirichenko_pr6_11var\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\st310-11\Documents\System\kirichenko_pr6_11var\kirichenko_pr6_11var
+build_property.MSBuildProjectDirectory = C:\Users\ilya\Documents\Отчёты\ТРПО\TRPO_pr6\kirichenko_pr6_11var
 build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/st310-11/Documents/System/kirichenko_pr6_11var/kirichenko_pr6_11var/Views/Pets/Create.cshtml]
+[C:/Users/ilya/Documents/Отчёты/ТРПО/TRPO_pr6/kirichenko_pr6_11var/Views/Pets/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/st310-11/Documents/System/kirichenko_pr6_11var/kirichenko_pr6_11var/Views/Pets/Delete.cshtml]
+[C:/Users/ilya/Documents/Отчёты/ТРПО/TRPO_pr6/kirichenko_pr6_11var/Views/Pets/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/st310-11/Documents/System/kirichenko_pr6_11var/kirichenko_pr6_11var/Views/Pets/Details.cshtml]
+[C:/Users/ilya/Documents/Отчёты/ТРПО/TRPO_pr6/kirichenko_pr6_11var/Views/Pets/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/st310-11/Documents/System/kirichenko_pr6_11var/kirichenko_pr6_11var/Views/Pets/Edit.cshtml]
+[C:/Users/ilya/Documents/Отчёты/ТРПО/TRPO_pr6/kirichenko_pr6_11var/Views/Pets/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/st310-11/Documents/System/kirichenko_pr6_11var/kirichenko_pr6_11var/Views/Pets/Index.cshtml]
+[C:/Users/ilya/Documents/Отчёты/ТРПО/TRPO_pr6/kirichenko_pr6_11var/Views/Pets/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGV0c1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/st310-11/Documents/System/kirichenko_pr6_11var/kirichenko_pr6_11var/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/ilya/Documents/Отчёты/ТРПО/TRPO_pr6/kirichenko_pr6_11var/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
