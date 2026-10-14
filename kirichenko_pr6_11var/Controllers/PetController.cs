@@ -30,7 +30,7 @@ namespace kirichenko_pr6_11var.Controllers
             {
                 pets = pets.Where(p => p.Species == species);
             }
-            if (adopted.HasValue )
+            if (adopted.HasValue)
             {
                 pets = pets.Where(p => p.IsAdopted == adopted.Value);
             }
@@ -98,11 +98,11 @@ namespace kirichenko_pr6_11var.Controllers
                 return NotFound();
             }
 
-            if(!string.IsNullOrEmpty(petUpdades.Name)) exisPet.Name = petUpdades.Name;
-            if(!string.IsNullOrEmpty(petUpdades.Species)) exisPet.Species = petUpdades.Species;
+            if(!string.IsNullOrEmpty(petUpdades.Name) && petUpdades.Name != "string") exisPet.Name = petUpdades.Name;
+            if(!string.IsNullOrEmpty(petUpdades.Species) && petUpdades.Species != "string") exisPet.Species = petUpdades.Species;
             if (petUpdades.Weight != 0) exisPet.Weight = petUpdades.Weight;
             if (petUpdades.Age != 0) exisPet.Age = petUpdades.Age;
-            exisPet.IsAdopted = petUpdades.IsAdopted;
+            if (petUpdades.IsAdopted != true) exisPet.IsAdopted = petUpdades.IsAdopted;
             _db.SaveChanges();
 
             return NoContent();

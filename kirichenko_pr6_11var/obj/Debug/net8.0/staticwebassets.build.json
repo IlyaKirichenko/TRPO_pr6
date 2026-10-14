@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9uleHG8lMkcjIp9vf0Yi1AahiHLoOeNF0pLXsiwD/TI=",
+  "Hash": "Ep8vnj11oxmB70TFc9UW1fTSbwWlBA/18eTp2fMfhHA=",
   "Source": "kirichenko_pr6_11var",
   "BasePath": "_content/kirichenko_pr6_11var",
   "Mode": "Default",
@@ -47,10 +47,10 @@
       "OriginalItemSpec": "C:\\Users\\st310-11\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.23\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\st310-11\\Documents\\System\\kirichenko_pr6_11var\\kirichenko_pr6_11var\\obj\\Debug\\net8.0\\scopedcss\\bundle\\kirichenko_pr6_11var.styles.css",
+      "Identity": "C:\\Users\\st310-11\\Documents\\System\\kirichenko\\TRPO_pr6\\kirichenko_pr6_11var\\obj\\Debug\\net8.0\\scopedcss\\bundle\\kirichenko_pr6_11var.styles.css",
       "SourceId": "kirichenko_pr6_11var",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\st310-11\\Documents\\System\\kirichenko_pr6_11var\\kirichenko_pr6_11var\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\st310-11\\Documents\\System\\kirichenko\\TRPO_pr6\\kirichenko_pr6_11var\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/kirichenko_pr6_11var",
       "RelativePath": "kirichenko_pr6_11var.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\st310-11\\Documents\\System\\kirichenko_pr6_11var\\kirichenko_pr6_11var\\obj\\Debug\\net8.0\\scopedcss\\bundle\\kirichenko_pr6_11var.styles.css"
+      "OriginalItemSpec": "C:\\Users\\st310-11\\Documents\\System\\kirichenko\\TRPO_pr6\\kirichenko_pr6_11var\\obj\\Debug\\net8.0\\scopedcss\\bundle\\kirichenko_pr6_11var.styles.css"
     }
   ]
 }
