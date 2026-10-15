@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("kirichenko_pr6_11var")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c16653f05a8586f12efc8c90f61842cb6db63faf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd2c7f8cec43234334f093e0cd41629bbfc3aadd")]
 [assembly: System.Reflection.AssemblyProductAttribute("kirichenko_pr6_11var")]
 [assembly: System.Reflection.AssemblyTitleAttribute("kirichenko_pr6_11var")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -90,7 +90,7 @@ namespace kirichenko_pr6_11var.Controllers
 
         //PATCH api/<PetController>/5
         [HttpPatch("{id}")]
-        public IActionResult Patch([FromRoute] int id, [FromBody] Pet petUpdades)
+        public IActionResult Patch([FromRoute] int id, [FromBody] PetNull petUpdades)
         {
             var exisPet = _db.Pets.Find(id);
             if(exisPet == null)
@@ -100,9 +100,9 @@ namespace kirichenko_pr6_11var.Controllers
 
             if(!string.IsNullOrEmpty(petUpdades.Name) && petUpdades.Name != "string") exisPet.Name = petUpdades.Name;
             if(!string.IsNullOrEmpty(petUpdades.Species) && petUpdades.Species != "string") exisPet.Species = petUpdades.Species;
-            if (petUpdades.Weight != 0) exisPet.Weight = petUpdades.Weight;
-            if (petUpdades.Age != 0) exisPet.Age = petUpdades.Age;
-            if (petUpdades.IsAdopted != true) exisPet.IsAdopted = petUpdades.IsAdopted;
+            if (petUpdades.Weight.HasValue) exisPet.Weight = petUpdades.Weight.Value;
+            if (petUpdades.Age.HasValue) exisPet.Age = petUpdades.Age.Value;
+            if (petUpdades.IsAdopted.HasValue) exisPet.IsAdopted = petUpdades.IsAdopted.Value;
             _db.SaveChanges();
 
             return NoContent();
